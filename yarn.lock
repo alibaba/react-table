@@ -12472,10 +12472,10 @@ xdg-basedir@^4.0.0:
   resolved "https://registry.npm.taobao.org/xdg-basedir/download/xdg-basedir-4.0.0.tgz?cache=0&sync_timestamp=1617611838739&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fxdg-basedir%2Fdownload%2Fxdg-basedir-4.0.0.tgz#4bc8d9984403696225ef83a1573cbbcb4e79db13"
   integrity sha1-S8jZmEQDaWIl74OhVzy7y0552xM=
 
-xlsx@^0.16.0:
-  version "0.16.9"
-  resolved "https://registry.nlark.com/xlsx/download/xlsx-0.16.9.tgz#dacd5bb46bda6dd3743940c9c3dc1e2171826256"
-  integrity sha1-2s1btGvabdN0OUDJw9weIXGCYlY=
+xlsx@^0.17.0:
+  version "0.17.0"
+  resolved "https://registry.nlark.com/xlsx/download/xlsx-0.17.0.tgz#028176a0140967dcee1817d221678461e47481c8"
+  integrity sha1-AoF2oBQJZ9zuGBfSIWeEYeR0gcg=
   dependencies:
     adler-32 "~1.2.0"
     cfb "^1.1.4"
